@@ -1,0 +1,24 @@
+{
+  "name": "element-ui-themes",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "2.15.8": "npm:element-theme-chalk@2.15.8",
+    "2.15.7": "npm:element-theme-chalk@2.15.7",
+    "2.15.6": "npm:element-theme-chalk@2.15.6",
+    "2.15.5": "npm:element-theme-chalk@2.15.5",
+    "2.15.4": "npm:element-theme-chalk@2.15.4",
+    "2.15.3": "npm:element-theme-chalk@2.15.3",
+    "2.15.2": "npm:element-theme-chalk@2.15.2",
+    "2.15.1": "npm:element-theme-chalk@2.15.1",
+    "2.15.0": "npm:element-theme-chalk@2.15.0",
+    "2.14.1": "npm:element-theme-chalk@2.14.1",
+    "2.14.0": "npm:element-theme-chalk@2.14.0",
+    "2.13.2": "npm:element-theme-chalk@2.13.2",
+    "2.13.1": "npm:element-theme-chalk@2.13.1",
+    "2.13.0": "npm:element-theme-chalk@2.13.0",
+    "2.12.0": "npm:element-theme-chalk@2.12.0",
+    "2.11.1": "npm:element-theme-chalk@2.11.1",
+    "2.11.0": "npm:element-theme-chalk@2.11.0"
+  }
+}

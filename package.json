@@ -1,0 +1,38 @@
+{
+  "name": "element-ui-theme-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "element-ui theme service",
+  "main": "index.js",
+  "scripts": {
+    "init:themes": "cd element-ui-themes && npm install",
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetterOwen/element-ui-theme-service.git"
+  },
+  "author": "betterOwen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BetterOwen/element-ui-theme-service/issues"
+  },
+  "homepage": "https://github.com/BetterOwen/element-ui-theme-service#readme",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "morgan": "~1.9.1",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-nop": "0.0.3",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "http-errors": "~1.6.3",
+    "sass": "^1.52.1"
+  }
+}
